@@ -2,15 +2,20 @@
 
 ## Table of Contents
 
+* [Description](#description)
 * [Instructions](#instructions)
-* [Contributing](#contributing)
+* [License](#license)
+
+## Description
+
+Front end web developer nanodegree lab. 
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+* Clone this repository by typing `git clone https://github.com/denni5lin/pixel-art-maker.git` into your command line.
+* [Download](https://github.com/denni5lin/pixel-art-maker/archive/master.zip) this repository, upzip the file and open `index.html` file in any browser of your choice.
+* Check it out on my GitHub Pages [**here**](https://denni5lin.github.io/pixel-art-maker/).
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## License
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Feel free to do whatever you want with it. 
